@@ -1,0 +1,16 @@
+{
+    "name": "sickdaflip/mage_amazon_payments",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description": "Magento Amazon Payments Module 3.0.6 for European",
+    "authors": [
+        {
+            "name": "SickDaFlip",
+            "email": "philippbreitsprecher@gmail.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
+
